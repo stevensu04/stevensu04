@@ -4,7 +4,9 @@ I build software with an economist's habit of asking **"what's this actually wor
 
 Master of IT student at **The University of Queensland** (graduating Nov 2026), coming from a background in economics, finance and banking. I like the part of a project where messy business processes turn into clean systems — pipelines, APIs, and interfaces people actually enjoy using.
 
-Based in Brisbane, Australia — say hi on [LinkedIn](https://linkedin.com/in/pochunstevensu).
+Based in Brisbane, Australia.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-chun-steven-su-446746243/)
 
 ---
 
