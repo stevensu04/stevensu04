@@ -23,6 +23,7 @@ Based in Brisbane, Australia.
 | Star Trade (HDRE Group) | Django intelligence engine calling OpenAI APIs async to draft B2B pitches; nightly Airflow ETL | **−50%** latency after MongoDB index tuning |
 | Queensland Government | Replaced manual finance workflows with Power Apps + Power Automate | **+30%** processing efficiency |
 | UQ | EventNow capstone — end-to-end SDLC, REST APIs, LLM integration | Team delivery, Agile/Scrum |
+| Practera (SAIEP) | Market analysis and growth strategy for WiseWordMedia, a sports advertising company | **4 of 5** recommendations adopted |
 
 #### 🧰 Toolbox
 
