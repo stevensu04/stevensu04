@@ -6,7 +6,7 @@ Master of IT student at **The University of Queensland** (graduating Nov 2026), 
 
 Based in Brisbane, Australia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-chun-steven-su-446746243/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-chun-steven-su-446746243/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://stevensu-resume.vercel.app)
 
 ---
 
