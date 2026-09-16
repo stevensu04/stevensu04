@@ -20,6 +20,8 @@ Based in Brisbane, Australia.
 
 | Where | What | Impact |
 |---|---|---|
+| Skyveil Studio | **Veilcore** (co-developer) — webcam duel game where players cast spells by drawing runes in the air; real-time hand tracking, gesture recognition, two-player WebSocket rooms | Playable, in playtesting |
+| Skyveil Studio | **Officiator Training Program** — cricket umpire trainer built on Veilcore's tracking; recognises 10 MCC umpire signals from a plain webcam and writes the scorebook | Live prototype; video never leaves the browser |
 | Star Trade (HDRE Group) | Django intelligence engine calling OpenAI APIs async to draft B2B pitches; nightly Airflow ETL | **−50%** latency after MongoDB index tuning |
 | Queensland Government | Replaced manual finance workflows with Power Apps + Power Automate | **+30%** processing efficiency |
 | UQ | EventNow capstone — end-to-end SDLC, REST APIs, LLM integration | Team delivery, Agile/Scrum |
