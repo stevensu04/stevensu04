@@ -26,8 +26,8 @@ Based in Brisbane, Australia.
 
 #### 🧰 Toolbox
 
-**Day to day:** Python · TypeScript · React / Next.js · Django · SQL
-**Data & infra:** MongoDB · MySQL · Apache Airflow · Docker · Git
+**Day to day:** Python · TypeScript · React / Next.js · Django · SQL<br>
+**Data & infra:** MongoDB · MySQL · Apache Airflow · Docker · Git<br>
 **Beyond code:** Figma prototyping · requirements & stakeholder workshops · Power Platform
 
 #### 🌏 Off the keyboard
