@@ -12,8 +12,9 @@ Based in Brisbane, Australia.
 
 #### 🔭 What I'm working on
 
-- **eco-router-mcp** — an MCP server that helps AI agents pick the lowest-carbon cloud region for a workload
-- **EventNow** (UQ capstone) — full-stack event platform with LLM-powered content generation and Google OAuth
+- **[eco-router-mcp](https://github.com/stevensu04/eco-router-mcp)** — published on npm and the MCP Registry; an MCP server that helps AI agents pick the lowest-carbon cloud region for a workload
+- **Formosa Bauhaus** (UQ capstone, team of 6) — a photo-to-3D web storefront that shows shoppers which surfaces were photographed and which the AI invented
+- **[EventNow](https://event-now-eight.vercel.app)** — event platform where organisers describe an event in one sentence and an AI agent fills in the form
 - Looking for **graduate roles** starting 2027 in software engineering, data, or digital transformation
 
 #### 🛠️ Things I've shipped
@@ -24,7 +25,8 @@ Based in Brisbane, Australia.
 | Skyveil Studio | **Officiator Training Program** — cricket umpire trainer built on Veilcore's tracking; recognises 10 MCC umpire signals from a plain webcam and writes the scorebook | Live prototype; video never leaves the browser |
 | Star Trade (HDRE Group) | Django intelligence engine calling OpenAI APIs async to draft B2B pitches; nightly Airflow ETL | **−50%** latency after MongoDB index tuning |
 | Queensland Government | Replaced manual finance workflows with Power Apps + Power Automate | **+30%** processing efficiency |
-| UQ | EventNow capstone — end-to-end SDLC, REST APIs, LLM integration | Team delivery, Agile/Scrum |
+| UQ (INFS7202) | **[EventNow](https://github.com/stevensu04/EventNow)** — solo-built Django event SaaS: agentic AI form-filling, signed ticket links with .ics, tiered plans, REST API | Live, end-to-end SDLC |
+| UQ (DECO7380/7381) | **Capstone** — BrisPulse crowd-pressure navigation concept, then Formosa Bauhaus: merchant console, role-gated auth, and a guard on a shared paid AI budget | In progress, showcase Oct 2026 |
 | Practera (SAIEP) | Market analysis and growth strategy for WiseWordMedia, a sports advertising company | **4 of 5** recommendations adopted |
 
 #### 🧰 Toolbox
